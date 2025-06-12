@@ -12,3 +12,5 @@ wheels/
 cpm_graner_glazier/
 cpm_results/
 output/
+
+.DS_Store
